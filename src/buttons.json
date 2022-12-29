@@ -1,0 +1,32 @@
+{
+    "header": "Button",
+    "row": [
+        {"id": "1",
+            "column":[
+            {
+                "attribute": "<Button />",
+                "text": "Default",
+                "style": ""
+            },
+            {
+                "attribute": "<Button />",
+                "text": "Default",
+                "style": ""
+            }
+        ]},
+        {"id": "2",
+            "column":[
+            {
+                "attribute": "<Button />",
+                "text": "Default",
+                "style": ""
+            },
+            {
+                "attribute": "<Button />",
+                "text": "Default",
+                "style": ""
+            }
+        ]}
+    ],
+    "footer": "created by alemantrix"
+}
