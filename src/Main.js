@@ -11,6 +11,7 @@ function Main() {
         <div>
             {data.rows.map(row => <div className='flex'>{row.columns.map(col => <ButtonBox {...col} />)}</div> )}
         </div>
+        <footer className='mb-4 font-normal text-lg text-gray-400'>Created by <span className='underline font-medium'>Alemantrix</span></footer>
     </main>
   )
 }
