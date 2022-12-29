@@ -1,0 +1,205 @@
+{
+    "header": "Buttons",
+    "rows": [
+        {
+            "id": "1",
+            "columns": [
+                {
+                    "attribute": "<Button />",
+                    "text": "Default",
+                    "color": "#3F3F3F",
+                    "borderRadius": "10px",
+                    "backgroundColor": "#E0E0E0",
+                    "borderColor": "",
+                    "borderWidth": "",
+                    "padding": "8px 22px"
+                },
+                {
+                    "attribute": "&:hover, &:focus",
+                    "text": "Default",
+                    "color": "#3F3F3F",
+                    "borderRadius": "10px",
+                    "backgroundColor": "#AEAEAE",
+                    "borderColor": "",
+                    "borderWidth": "",
+                    "padding": "8px 22px"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "columns": [
+                {
+                    "attribute": "<Button variant=\"outline\" />",
+                    "text": "Default",
+                    "color": "#3d5afe",
+                    "borderRadius": "10px",
+                    "backgroundColor": "#fff",
+                    "borderColor": "#3d5afe",
+                    "borderWidth": "2px",
+                    "padding": "8px 22px"
+                },
+                {
+                    "attribute": "&:hover, &:focus",
+                    "text": "Default",
+                    "color": "#3d5afe",
+                    "borderRadius": "10px",
+                    "backgroundColor": "#EAF0FF",
+                    "borderColor": "#3d5afe",
+                    "borderWidth": "2px",
+                    "padding": "8px 22px"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "columns": [
+                {
+                    "attribute": "<Button variant=\"text\" />",
+                    "text": "Default",
+                    "color": "#3d5afe",
+                    "borderRadius": "10px",
+                    "backgroundColor": "#fff",
+                    "borderColor": "#3d5afe",
+                    "borderWidth": "2px",
+                    "padding": "8px 22px"
+                },
+                {
+                    "attribute": "&:hover, &:focus",
+                    "text": "Default"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "columns": [
+                {
+                    "attribute": "<Button disableShadow />",
+                    "text": "Default",
+                    "color": "#3d5afe",
+                    "borderRadius": "10px",
+                    "backgroundColor": "#fff",
+                    "borderColor": "#3d5afe",
+                    "borderWidth": "2px",
+                    "padding": "8px 22px"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "columns": [
+                {
+                    "attribute": "<Button disabled />",
+                    "text": "Disabled",
+                    "color": "#3d5afe",
+                    "borderRadius": "10px",
+                    "backgroundColor": "#fff",
+                    "borderColor": "#3d5afe",
+                    "borderWidth": "2px",
+                    "padding": "8px 22px"
+                },
+                {
+                    "attribute": "<Button variant=\"text\" disabled />",
+                    "text": "Disabled"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "columns": [
+                {
+                    "attribute": "<Button startIcon=\"local_grocery_store\" />",
+                    "text": "Default",
+                    "color": "#3d5afe",
+                    "borderRadius": "10px",
+                    "backgroundColor": "#fff",
+                    "borderColor": "#3d5afe",
+                    "borderWidth": "2px",
+                    "padding": "8px 22px"
+                },
+                {
+                    "attribute": "<Button endIcon=\"local_grocery_store\" />",
+                    "text": "Default"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "columns": [
+                {
+                    "attribute": "<Button size=\"sm\" />",
+                    "text": "Default",
+                    "color": "#3d5afe",
+                    "borderRadius": "10px",
+                    "backgroundColor": "#fff",
+                    "borderColor": "#3d5afe",
+                    "borderWidth": "2px",
+                    "padding": "8px 22px"
+                },
+                {
+                    "attribute": "<Button size=\"md\" />",
+                    "text": "Default"
+                },
+                {
+                    "attribute": "<Button size=\"lg\" />",
+                    "text": "Default"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "columns": [
+                {
+                    "attribute": "<Button color=\"default\" />",
+                    "text": "Default",
+                    "color": "#3d5afe",
+                    "borderRadius": "10px",
+                    "backgroundColor": "#fff",
+                    "borderColor": "#3d5afe",
+                    "borderWidth": "2px",
+                    "padding": "8px 22px"
+                },
+                {
+                    "attribute": "<Button color=\"primary\" />",
+                    "text": "Default"
+                },
+                {
+                    "attribute": "<Button color=\"secondary\" />",
+                    "text": "Secondary"
+                },
+                {
+                    "attribute": "<Button color=\"danger\" />",
+                    "text": "Danger"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "columns": [
+                {
+                    "attribute": "&:hover, &:focus",
+                    "text": "Default",
+                    "color": "#3d5afe",
+                    "borderRadius": "10px",
+                    "backgroundColor": "#fff",
+                    "borderColor": "#3d5afe",
+                    "borderWidth": "2px",
+                    "padding": "8px 22px"
+                },
+                {
+                    "attribute": "",
+                    "text": "Default"
+                },
+                {
+                    "attribute": "",
+                    "text": "Secondary"
+                },
+                {
+                    "attribute": "",
+                    "text": "Danger"
+                }
+            ]
+        }
+    ],
+    "footer": "created by alemantrix"
+}
