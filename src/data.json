@@ -118,7 +118,9 @@
                     "backgroundColor": "#2962FF",
                     "borderColor": "",
                     "borderWidth": "",
-                    "padding": "8px 22px"
+                    "padding": "8px 22px",
+                    "iconPosition": "start",
+                    "iconSize": "20px"
                 },
                 {
                     "attribute": "<Button endIcon=\"local_grocery_store\" />",
@@ -128,7 +130,9 @@
                     "backgroundColor": "#2962FF",
                     "borderColor": "",
                     "borderWidth": "",
-                    "padding": "8px 22px"
+                    "padding": "8px 22px",
+                    "iconPosition": "end",
+                    "iconSize": "20px"
                 }
             ]
         },
